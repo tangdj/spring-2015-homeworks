@@ -8,6 +8,11 @@
 [Homework 1](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-1/1:.Popular-books.ipynb)
 
 [Homework 2](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-2/2.Pandas-in-Boston.ipynb)
+<<<<<<< HEAD
+=======
+
+[Homework 3](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-3/3.Clustering.ipynb)
+>>>>>>> 6e61bed391a663e0a3280cb2ac863d15e9b6ed39
 
 ## License
 Copyright (C) 2015 Evimaria Terzi <evimaria@cs.bu.edu>
